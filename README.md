@@ -2,6 +2,9 @@
 
 > A project for Huawei Hackathon 2023 which required a team to build an AI assistant that accesses data from a database based on plain text prompt
 
+# Authors
+- Radek Zajicek - https://github.com/aze-kharini
+- Paweł Popkiewicz - https://github.com/PawelPopkiewicz
 ## Features
 - Accessing a database based on a name
 - Getting the schemas for tables in the database
